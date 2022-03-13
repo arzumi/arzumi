@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arzu! You probably know me as Mixiati Aerzuo
 - 👀 I am a second year student at University of Toronto double majoring in Computer Science and Economis. 
-- 🌱 I am interested in Machine Learning, AI, web and software development. Currently I am looking for internship to utilize my skills and gain more experiences. 
+- 🌱 I am interested in Machine Learning, AI, web and software development. Currently I am looking for internship opportunities to utilize my skills and gain more experiences. 
 - 📫 How to reach me: email: mixiati.aerzuo@mail.utoronto.ca
 
 <!---
